@@ -1,0 +1,12 @@
+round,acc_no_dp_%,acc_dp_%
+1,87.08,47.03
+2,95.72,59.68
+3,96.89,64.47
+4,97.63,67.57
+5,97.85,72.15
+
+eps_per_round,0.898
+eps_total_5rounds,1.184
+delta,1e-05
+noise_multiplier,1.1
+max_grad_norm,1.0
